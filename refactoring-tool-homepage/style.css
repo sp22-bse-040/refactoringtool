@@ -1,0 +1,43 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 30px 0;
+}
+main {
+    padding: 40px;
+}
+.buttons button {
+    margin: 10px;
+    padding: 12px 20px;
+    font-size: 16px;
+    background-color: #005a9c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: not-allowed;
+}
+.features {
+    margin-top: 40px;
+}
+.features ul {
+    list-style-type: none;
+    padding: 0;
+}
+.features li {
+    padding: 10px 0;
+    font-size: 18px;
+}
+footer {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #222;
+    color: white;
+}
